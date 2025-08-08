@@ -1,0 +1,14 @@
+{
+  "name": "Light Enterprises",
+  "short_name": "Light",
+  "theme_color": "#3466AA",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
